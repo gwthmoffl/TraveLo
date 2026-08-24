@@ -151,7 +151,7 @@ header.sticky .navbar a::after {
 
     margin: 5px 0;
 
-    background: var(--text);
+    background: var(--white);
 
     transition: .3s;
 }
